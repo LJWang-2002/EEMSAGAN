@@ -9,7 +9,7 @@ gt_usm: False
 datasets:
   train:
     name: RemoteSensing
-    type: RemoteSensingRealESRGANDataset
+    type: RemoteSensingEEMSAGANDataset
     dataroot_gt: "datasets"
     meta_info: "datasets/meta_info/meta_info_RemoteSensing.txt"
 

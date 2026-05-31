@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 ## Dataset Preparation
 
-The training set should be placed in the datasets/train_HR folder, the high-resolution validation set in datasets/val_HR, and the degraded low-resolution validation set in datasets/val_LR.
+The training set should be placed in the 'datasets/train_HR' folder, the high-resolution validation set in 'datasets/val_HR', and the degraded low-resolution validation set in 'datasets/val_LR'.
 
 You need to use the [generate_meta_info.py](generate_meta_info.py) script to generate meta information for the training set.
 
@@ -18,7 +18,7 @@ You need to use the [generate_meta_info.py](generate_meta_info.py) script to gen
 
 ## Train EEMSAGAN
 
-Our experiment is implemented using the BasicsR framework. First, we need to import the edge loss function into the basicsR/losses directory to integrate it successfully into the model.
+Our experiment is implemented using the Basicsr framework. First, we need to import the edge loss function into the 'basicsr/losses' directory to integrate it successfully into the model.
 
 ### Train Generator
 

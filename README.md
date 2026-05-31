@@ -1,4 +1,4 @@
-# EEMSAGAN: Edge Ehanced Muti-Scale Attention GAN for Remote Sensing Image Super-resolution
+# EEMSAGAN: Edge-Enhanced Multi-Scale Attention GAN for Remote Sensing Image Super-Resolution
 
 abstract
 
